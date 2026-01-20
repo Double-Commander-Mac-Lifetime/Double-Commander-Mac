@@ -1,6 +1,6 @@
 # Double Commander Mac
 
-<img src="https://static.macupdate.com/products/50006/l/double-commander-logo.png?v=1605883222" width="200" alt="App icon" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/double-commander.png" width="200" alt="App icon" align="left"/>
 
 <div>
 <h3>Double Commander macOS</h3>
@@ -18,7 +18,7 @@
 <a href="#"><img src="https://img.shields.io/badge/license-Standard%20License-lightgrey?style=flat" alt="license"/></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-macOS-blue?style=flat" alt="platform"/></a>
 
-<img src="https://user-images.githubusercontent.com/947647/169654708-ff3e2408-4fb9-4384-a4b8-3e7b8f61fbed.png" width="824" alt="Screenshot"/>
+<img src="https://mac-cdn.softpedia.com/screenshots/double-commander_10.jpg" width="824" alt="Screenshot"/>
 
 </div>
 
